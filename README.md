@@ -23,7 +23,7 @@ Le résultat : des outils **ouverts, sobres et utiles**, souvent hébergés chez
 * **[Annuaire TSA](https://github.com/Pandorra40/annuaire-tsa)** : annuaire collaboratif et gratuit de praticiens spécialisés dans les troubles du spectre autistique.  
   → Site : [annuaire-tsa.fr](https://www.annuaire-tsa.fr)
 
-* **[Hébernet](https://github.com/Pandorra40/hebernet)** : panel d’hébergement web open source (beta), sites, runtimes, outils autour d’une stack Docker.
+* **[Hébernet](https://github.com/Pandorra40/hebernet)** : Panneau d’hébergement open source (bêta) : sites web, runtimes et services, sur Docker. 
 
 ### Ce qui m’intéresse
 
