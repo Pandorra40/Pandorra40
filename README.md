@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### Architecte de projets · vibe-coding · logiciels libres utiles
+### Projets open source · vibe-coding · logiciels libres utiles
 
-**Je conçois, oriente et valide. L’IA code. Self-hosting · Nuxt · Docker · sécurité**
+**Je conçois et oriente sur mon temps libre. L’IA code. Self-hosting · Nuxt · Docker · sécurité**
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## Français
 
-Salut, je ne me présente **pas** comme développeur. Je suis plutôt **architecte / chef de projet** : je définis le besoin, les contraintes, la stack, la sécurité, l’hébergement… et je fais construire par des **agents IA** (vibe-coding).
+Salut — je ne me présente **pas** comme développeur pro. Sur mon temps libre, en **bénévolat / hobby**, je **conçois et oriente** des projets utiles : besoin, contraintes, stack, sécurité, hébergement… et je fais construire par des **agents IA** (vibe-coding).
 
 Le résultat : des outils **ouverts, sobres et utiles**, souvent hébergés chez moi (VPS, NAS, reverse-proxy, CrowdSec…). L’idée, ce n’est pas « écrire chaque ligne à la main », c’est **livrer quelque chose qui tourne**, qu’on peut auditer, et qui reste maintenable.
 
@@ -36,7 +36,7 @@ Le résultat : des outils **ouverts, sobres et utiles**, souvent hébergés chez
 
 ## English
 
-Hi, I don’t present myself as a **developer**. I’m more of an **architect / project lead**: I define the need, constraints, stack, security, hosting… and I have **AI agents** build it (vibe-coding).
+Hi — I don’t present myself as a professional **developer**. In my free time, as a **volunteer / hobbyist**, I **design and steer** useful projects: needs, constraints, stack, security, hosting… and I have **AI agents** build them (vibe-coding).
 
 The outcome: **open, lean, useful** tools, often self-hosted (VPS, NAS, reverse-proxy, CrowdSec…). The point isn’t “hand-writing every line”: it’s **shipping something that runs**, can be audited, and stays maintainable.
 
