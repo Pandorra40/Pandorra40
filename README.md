@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Pandorra40 — architected by a human, built with AI" width="1280" height="640" />
+</p>
+
 <div align="center">
 
 ### Architecte de projets · vibe-coding · logiciels libres utiles
