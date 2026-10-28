@@ -1,8 +1,8 @@
 <div align="center">
 
-### Développeur · self-hosting · logiciels libres utiles
+### Architecte de projets · vibe-coding · logiciels libres utiles
 
-**Nuxt / Vue · Node · Docker · sécurité applicative · hébergement maison**
+**Je conçois, oriente et valide — l’IA code. Self-hosting · Nuxt · Docker · sécurité**
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## Français
 
-Salut — je construis des outils **ouverts, sobres et utiles**, souvent hébergés chez moi (VPS, NAS, reverse-proxy, CrowdSec…).
+Salut — je ne me présente **pas** comme développeur. Je suis plutôt **architecte / chef de projet** : je définis le besoin, les contraintes, la stack, la sécurité, l’hébergement… et je fais construire par des **agents IA** (vibe-coding).
 
-J’aime croiser **développement web**, **ops** et un peu de **sécurité** : un projet qui tourne vraiment, qu’on peut auditer, et qui reste simple à maintenir.
+Le résultat : des outils **ouverts, sobres et utiles**, souvent hébergés chez moi (VPS, NAS, reverse-proxy, CrowdSec…). L’idée, ce n’est pas « écrire chaque ligne à la main », c’est **livrer quelque chose qui tourne**, qu’on peut auditer, et qui reste maintenable.
 
 ### Projets
 
@@ -23,7 +23,7 @@ J’aime croiser **développement web**, **ops** et un peu de **sécurité** : u
 
 ### Ce qui m’intéresse
 
-* Applications web modernes (Nuxt, API, SEO, accessibilité)
+* Concevoir des apps web modernes (Nuxt, API, SEO, accessibilité) **avec l’IA comme main-d’œuvre**
 * Self-hosting et reverse-proxy (NPMplus, CrowdSec, supervision)
 * Sécurité pratique : Dependabot, Code scanning, durcissement, moindre privilège
 * Logiciel libre au service de besoins concrets (santé, familles, admin sys)
@@ -32,9 +32,9 @@ J’aime croiser **développement web**, **ops** et un peu de **sécurité** : u
 
 ## English
 
-Hi — I build **open, lean, useful** tools, often self-hosted (VPS, NAS, reverse-proxy, CrowdSec…).
+Hi — I don’t present myself as a **developer**. I’m more of an **architect / project lead**: I define the need, constraints, stack, security, hosting… and I have **AI agents** build it (vibe-coding).
 
-I like mixing **web development**, **ops**, and a bit of **security**: software that actually runs, can be audited, and stays maintainable.
+The outcome: **open, lean, useful** tools, often self-hosted (VPS, NAS, reverse-proxy, CrowdSec…). The point isn’t “hand-writing every line” — it’s **shipping something that runs**, can be audited, and stays maintainable.
 
 ### Projects
 
@@ -45,7 +45,7 @@ I like mixing **web development**, **ops**, and a bit of **security**: software 
 
 ### Interests
 
-* Modern web apps (Nuxt, APIs, SEO, accessibility)
+* Designing modern web apps (Nuxt, APIs, SEO, accessibility) **with AI as the workforce**
 * Self-hosting and edge security (reverse-proxy, CrowdSec, supervision)
 * Practical AppSec: Dependabot, Code scanning, hardening, least privilege
 * Free software for real-world needs (health, families, sysadmin)
@@ -54,6 +54,6 @@ I like mixing **web development**, **ops**, and a bit of **security**: software 
 
 <div align="center">
 
-*Open source. Self-hosted. Built to be useful.*
+*Architected by a human. Built with AI. Open and useful.*
 
 </div>
