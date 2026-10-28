@@ -45,7 +45,7 @@ The outcome: **open, lean, useful** tools, often self-hosted (VPS, NAS, reverse-
 * **[Annuaire TSA](https://github.com/Pandorra40/annuaire-tsa)** : free collaborative directory of practitioners specialised in autism spectrum conditions.  
   → Live site: [annuaire-tsa.fr](https://www.annuaire-tsa.fr)
 
-* **[Hébernet](https://github.com/Pandorra40/hebernet)** : open-source web hosting panel (beta), sites, runtimes, and tooling on a Docker stack.
+* **[Hébernet](https://github.com/Pandorra40/hebernet)** : Open-source hosting platform (beta): websites, runtimes, and services on Docker.
 
 ### Interests
 
